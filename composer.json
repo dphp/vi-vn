@@ -25,5 +25,10 @@
         "psr-0": {
             "vi-vn": "src/main/php/"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "v0.1.0"
+        }
     }
 }
