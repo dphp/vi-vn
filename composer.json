@@ -1,10 +1,10 @@
 {
-    "name"          : "ddth/dphp-vi-vn",
+    "name"          : "dphp/vi-vn",
     "version"       : "0.1.0",
     "type"          : "library",
     "description"   : "vi_vn utilities for PHP.",
-    "keywords"      : ["vi", "vn"],
-    "homepage"      : "https://github.com/DDTH/dphp-composer",
+    "keywords"      : ["ddth", "vi", "vn"],
+    "homepage"      : "https://github.com/dphp/vi-vn",
     "license"       : "LGPL-3.0+",
     "authors"       : [
         {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "dphp-vi-vn": "src/main/php/"
+            "vi-vn": "src/main/php/"
         }
     }
 }
