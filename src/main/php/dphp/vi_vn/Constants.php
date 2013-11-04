@@ -7,13 +7,13 @@
  * 
  * COPYRIGHT: See COPYRIGHT.md
  *
- * @package            Dphp
- * @subpackage        Vivn
- * @author            Thanh Ba Nguyen <btnguyen2k@gmail.com>
- * @copyright        See COPYRIGHT.md
- * @license            See LICENSE.md
- * @version            $Id$
- * @since            File available since v0.1
+ * @package             Dphp
+ * @subpackage          Vivn
+ * @author              Thanh Ba Nguyen <btnguyen2k@gmail.com>
+ * @copyright           See COPYRIGHT.md
+ * @license             See LICENSE.md
+ * @version             $Id$
+ * @since               File available since v0.1
  */
 
 namespace Dphp\Vivn;
@@ -21,13 +21,13 @@ namespace Dphp\Vivn;
 /**
  * Defines global constants used by Dphp\Vivn package.
  *
- * @package            Dphp
- * @subpackage        Vivn
- * @author            Thanh Ba Nguyen <btnguyen2k@gmail.com>
- * @copyright        See COPYRIGHT.md
- * @license            See LICENSE.md
- * @version            $Id$
- * @since            Class available since v0.1
+ * @package             Dphp
+ * @subpackage          Vivn
+ * @author              Thanh Ba Nguyen <btnguyen2k@gmail.com>
+ * @copyright           See COPYRIGHT.md
+ * @license             See LICENSE.md
+ * @version             $Id$
+ * @since               Class available since v0.1
  */
 class Constants {
     //sorting order NONE, GRAVE, FALLING, TILDE, ACUTE, DROP
